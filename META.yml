@@ -57,7 +57,7 @@ requires:
   autodie: '0'
   constant: '0'
   parent: '0'
-  perl: v5.10.0
+  perl: '5.010'
   strict: '0'
   utf8::all: '0'
   warnings: '0'
