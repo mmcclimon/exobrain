@@ -70,7 +70,7 @@
             "autodie" : "0",
             "constant" : "0",
             "parent" : "0",
-            "perl" : "5.010",
+            "perl" : "v5.10.0",
             "strict" : "0",
             "utf8::all" : "0",
             "warnings" : "0"
